@@ -21,6 +21,7 @@ I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:.
 <a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Rstudio" src="https://img.shields.io/badge/RStudio-%2312100E.svg"/></a> 
 </p>
 
 
