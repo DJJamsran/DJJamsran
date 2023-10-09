@@ -1,5 +1,5 @@
-# Hey!, I am Davaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> from Sydney
-<img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right">
+# Hey, I'm Davaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> from Sydney
+
 
 <!--
 **DJJamsran/DJJamsran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
