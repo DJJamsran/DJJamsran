@@ -43,10 +43,8 @@
 
 <br>
 
-<h3>Python libraries I expertise in<br><br>
+<h3>Python libraries I work with <br><br>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-royalblue.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-blue.svg?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -56,7 +54,6 @@
 ![PyPI](https://img.shields.io/badge/PyPI-purple.svg?style=for-the-badge&logo=PyPI&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-red.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-darkpink.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-teal.svg?style=for-the-badge&logo=Sympy&logoColor=white)<br>
 
  <br>
 
