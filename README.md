@@ -8,7 +8,6 @@ I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
 
-### My skills include
 
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
