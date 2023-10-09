@@ -1,7 +1,11 @@
-### Hi there 👋 I'm Davaa,
+<p>
+  <h1 align="left"><b>Hi there👋 I'm Davaa,</b></h1>
+</p>
 
-I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. I like automating, building BI Dashboards, and uncovering hidden insights in data. 
-
+<p>
+  <h4 align="left"><b>I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. 
+    I like automating, building BI Dashboards, and uncovering hidden insights in data</b></h4>
+</p>
 
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
 - 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at WSU**
