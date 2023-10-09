@@ -13,7 +13,7 @@
 - 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at WSU**
 - ⚡ **Fun fact:** **I love** to eat outside.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
+- 😄 Things I like: Movies 🎥, Hiking 🏞️, Chess ♟️, Meeting New People 🤝
 
 <br>
 <br>
