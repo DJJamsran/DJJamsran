@@ -24,6 +24,9 @@ I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:.
 <a target="_blank" href="https://www.rstudio.com/">
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-black?logo=rstudio&style=for-the-badge" height="28"/>
 </a>
+<a target="_blank" href="https://jupyter.org/">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-black?logo=jupyter&style=for-the-badge" height="28"/>
+</a>
 
 </p>
 
