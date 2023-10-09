@@ -4,8 +4,9 @@
 
 <a align="left"><b>I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. 
     I like automating, building BI Dashboards, and uncovering hidden insights in data</b></a>
-<br><br>
-<img align="right" width="480" height="480" alt="GIF" src="https://giphy.com/gifs/data-spicy-FSzLVme5Y3n3LMOiqP" />
+<br>
+<br>
+<img align="right" width="480" height="480" alt="GIF" src="https://giphy.com/embed/FSzLVme5Y3n3LMOiqP" />
 
 ### About me 
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
@@ -14,7 +15,8 @@
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
 
-
+<br>
+<br>
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
