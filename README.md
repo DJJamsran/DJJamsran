@@ -2,8 +2,8 @@
   <h1 align="left"><b>Hi there👋 I'm Davaa,</b></h1>
 </p>
 
-<h4 align="left"><b>I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. 
-    I like automating, building BI Dashboards, and uncovering hidden insights in data</b></h4>
+<a align="left"><b>I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. 
+    I like automating, building BI Dashboards, and uncovering hidden insights in data</b></a>
 
 
 
