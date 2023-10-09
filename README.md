@@ -7,6 +7,7 @@
     I like automating, building BI Dashboards, and uncovering hidden insights in data</b></h4>
 </p>
 
+
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
 - 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at WSU**
 - ⚡ **Fun fact:** **I love** to eat outside.
