@@ -1,10 +1,5 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/davaa-jamsran-a97751203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-### Hi, I am Davaa 👋
+# Hey!, I am Davaa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> from Sydney
+<img src="./images/Hand coding-rafiki.png" width="35%" alt="vector" align="right">
 
 <!--
 **DJJamsran/DJJamsran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
