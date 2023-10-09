@@ -6,7 +6,7 @@
     I like automating, building BI Dashboards, and uncovering hidden insights in data</b></a>
 <br>
 <br>
-<img align="right" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/giphy%20(1).gif" width="300"/>
+<img align="right" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/giphy%20(1).gif" width="250"/>
 
 ### About me 
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
