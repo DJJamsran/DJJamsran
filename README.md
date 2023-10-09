@@ -16,6 +16,7 @@ I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:.
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="Jupyter" alt="Jupyter" src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js" width="200" style="vertical-align:down; margin:4px"/>
 </p>
 
 
