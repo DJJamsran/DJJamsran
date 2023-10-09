@@ -3,7 +3,7 @@
 I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. I like automating, building BI Dashboards, and uncovering hidden insights in data. 
 
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
-- 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at Western Sydney University**/
+- 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at Western Sydney University**
 - ⚡ **Fun fact:** I **love** to eat outside.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
