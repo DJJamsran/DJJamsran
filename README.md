@@ -2,6 +2,8 @@
 
 I am Business Analyst, and Data Analysis & Visualization enthusiast :bar_chart:. I like automating, building BI Dashboards, and uncovering hidden insights in data. 
 
+<iframe src="https://giphy.com/embed/FSzLVme5Y3n3LMOiqP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/data-spicy-FSzLVme5Y3n3LMOiqP">via GIPHY</a></p>
+
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
 - 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at WSU**
 - ⚡ **Fun fact:** **I love** to eat outside.
