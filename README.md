@@ -11,7 +11,7 @@
 ### About me 
 - 🔭 I’m currently working as **Analyst** at PwC Australia. 
 - 🌱 I recently graduated **Masters in Business Analytics and Finance Investment at WSU**
-- ⚡ **Fun fact:** I love to **eat** outside.
+- ⚡ **Fun fact:** I love to **eat** out.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 😄 Things I like: Movies 🎥, Hiking 🏞️, Chess ♟️, Meeting New People 🤝
 
