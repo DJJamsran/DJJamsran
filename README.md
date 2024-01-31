@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://www.chess.com/member/boroo7">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
+    <img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/chess.gif" width="200"/>
     <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
   </a>
 </p>
