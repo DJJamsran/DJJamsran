@@ -49,7 +49,6 @@
 
 <p align="center">
   <a href="https://www.chess.com/member/boroo7">
-    <a align="center"><b>My Play😎(a dedicated learner📚♟️)</b></a>
     <img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/chess.gif" width="300"/>
   </a>
 </p>
