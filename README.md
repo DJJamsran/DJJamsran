@@ -49,8 +49,9 @@
 
 <p align="center">
   <a href="https://www.chess.com/member/boroo7">
-    <img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/chess.gif" width="200"/>
-    <a align="center"><b>My Play (a dedicated learner📚♟️)</b></a>
+    <img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/chess.gif" width="300"/>
+    <br>
+    <a align="center"><b>My Play😎(a dedicated learner📚♟️)</b></a>
     <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
   </a>
 </p>
