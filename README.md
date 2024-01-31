@@ -42,6 +42,16 @@
 </p>
 
 
+<h1>
+  I am the Casual Cruiser 😎 at chess.com ♟️
+</h1>
+
+<p align="center">
+  <a href="https://www.chess.com/member/boroo7">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
+  </a>
+</p>
 <!--
 **DJJamsran/DJJamsran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
